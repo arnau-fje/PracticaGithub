@@ -1,0 +1,15 @@
+C:\Users\arnaup\source\repos\PracticaGit_Arnau_Payes\PracticaGit_Arnau_Payes\bin\Debug\net10.0\PracticaGit_Arnau_Payes.exe
+C:\Users\arnaup\source\repos\PracticaGit_Arnau_Payes\PracticaGit_Arnau_Payes\bin\Debug\net10.0\PracticaGit_Arnau_Payes.deps.json
+C:\Users\arnaup\source\repos\PracticaGit_Arnau_Payes\PracticaGit_Arnau_Payes\bin\Debug\net10.0\PracticaGit_Arnau_Payes.runtimeconfig.json
+C:\Users\arnaup\source\repos\PracticaGit_Arnau_Payes\PracticaGit_Arnau_Payes\bin\Debug\net10.0\PracticaGit_Arnau_Payes.dll
+C:\Users\arnaup\source\repos\PracticaGit_Arnau_Payes\PracticaGit_Arnau_Payes\bin\Debug\net10.0\PracticaGit_Arnau_Payes.pdb
+C:\Users\arnaup\source\repos\PracticaGit_Arnau_Payes\PracticaGit_Arnau_Payes\obj\Debug\net10.0\PracticaGit_Arnau_Payes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnaup\source\repos\PracticaGit_Arnau_Payes\PracticaGit_Arnau_Payes\obj\Debug\net10.0\PracticaGit_Arnau_Payes.AssemblyInfoInputs.cache
+C:\Users\arnaup\source\repos\PracticaGit_Arnau_Payes\PracticaGit_Arnau_Payes\obj\Debug\net10.0\PracticaGit_Arnau_Payes.AssemblyInfo.cs
+C:\Users\arnaup\source\repos\PracticaGit_Arnau_Payes\PracticaGit_Arnau_Payes\obj\Debug\net10.0\PracticaGit_Arnau_Payes.csproj.CoreCompileInputs.cache
+C:\Users\arnaup\source\repos\PracticaGit_Arnau_Payes\PracticaGit_Arnau_Payes\obj\Debug\net10.0\PracticaGit_Arnau_Payes.dll
+C:\Users\arnaup\source\repos\PracticaGit_Arnau_Payes\PracticaGit_Arnau_Payes\obj\Debug\net10.0\refint\PracticaGit_Arnau_Payes.dll
+C:\Users\arnaup\source\repos\PracticaGit_Arnau_Payes\PracticaGit_Arnau_Payes\obj\Debug\net10.0\PracticaGit_Arnau_Payes.pdb
+C:\Users\arnaup\source\repos\PracticaGit_Arnau_Payes\PracticaGit_Arnau_Payes\obj\Debug\net10.0\PracticaGit_Arnau_Payes.genruntimeconfig.cache
+C:\Users\arnaup\source\repos\PracticaGit_Arnau_Payes\PracticaGit_Arnau_Payes\obj\Debug\net10.0\ref\PracticaGit_Arnau_Payes.dll
+C:\Users\arnaup\source\repos\PracticaGit_Arnau_Payes\PracticaGit_Arnau_Payes\obj\Debug\net10.0\Practica.F86468E1.Up2Date
